@@ -1,7 +1,3 @@
-import twoSum from "./problems/two-sum";
-import palindromeNumber from "./problems/palindrome-number";
-import romanToInteger from "./problems/roman-to-integer";
-import validParentheses from "./problems/valid-parentheses";
-import firstOccurrenceInString from "./problems/first-occurrence-in-string";
+import lengthOfFastWord from "./problems/length-of-fast-word";
 
-console.log(firstOccurrenceInString("leetcode", "leeto"));
+console.log(lengthOfFastWord("   fly me   to   the moon  "));
