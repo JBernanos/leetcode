@@ -1,3 +1,3 @@
-import lengthOfFastWord from "./problems/length-of-fast-word";
+import plusOne from "./problems/plus-one";
 
-console.log(lengthOfFastWord("   fly me   to   the moon  "));
+console.log(plusOne([9, 9, 9]));
