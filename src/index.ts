@@ -1,3 +1,3 @@
-import plusOne from "./problems/plus-one";
+import singleNumber from "./problems/single-number";
 
-console.log(plusOne([9, 9, 9]));
+console.log(singleNumber([4,1,2,1,2]));
